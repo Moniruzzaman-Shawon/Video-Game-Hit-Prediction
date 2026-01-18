@@ -83,9 +83,9 @@ python app.py
 ````
 
 ## Deployment
-````
+
 The Gradio application is deployed on Hugging Face Spaces and is publicly accessible.
-````
+
 ## Key Takeaways
 - Designed and implemented an end-to-end machine learning pipeline  
 - Applied industry-standard practices for data preprocessing, validation, and evaluation  
