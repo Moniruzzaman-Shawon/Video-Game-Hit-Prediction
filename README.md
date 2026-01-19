@@ -13,8 +13,8 @@ A game is classified as a **Hit** if its global sales exceed **1 million units**
 [![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/shawon17/Video-Games-Hit-Prediction)
 
 
-🟡 **Note:** This demo may go to sleep due to inactivity on Hugging Face free tier.  
-If so, click **“Restart this Space”** to launch the app.
+🟡 Note: On the free tier, Spaces may go to sleep due to inactivity.  
+Click **“Restart this Space”** to start the demo.
 ---
 
 ## Dataset
