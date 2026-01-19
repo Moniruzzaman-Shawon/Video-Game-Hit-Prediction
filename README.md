@@ -1,6 +1,6 @@
 # 🎮 Video Game Hit Prediction
 
-## Overview
+## 🧠 Overview
 Video Game Hit Prediction builds an end-to-end Machine Learning system to predict whether a video game will become a **commercial hit** based on its metadata and regional sales performance.  
 A game is classified as a **Hit** if its global sales exceed **1 million units**.
 
@@ -8,7 +8,7 @@ A game is classified as a **Hit** if its global sales exceed **1 million units**
 
 ---
 
-## 🌐 Live Demo
+## 🌍 Live Demo
 
 [![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/shawon17/Video-Games-Hit-Prediction)
 
@@ -28,7 +28,7 @@ Click **“Restart this Space”** to start the demo.
 
 ---
 
-## Dataset
+## 🗂️ Dataset
 - **Source:** Kaggle – Video Game Sales Dataset  
 - **Type:** Structured tabular data  
 - **Records:** ~16K video games  
@@ -36,7 +36,7 @@ Click **“Restart this Space”** to start the demo.
 
 ---
 
-## Approach
+## ⚙️ Approach
 - Feature engineering and leakage prevention  
 - Unified preprocessing and modeling using **scikit-learn Pipelines**  
 - Robust evaluation using **cross-validation**  
@@ -46,7 +46,7 @@ Click **“Restart this Space”** to start the demo.
 
 ---
 
-## Model
+## 🤖 Model
 ### RandomForestClassifier
 
 **Chosen for its:**
@@ -57,7 +57,7 @@ Click **“Restart this Space”** to start the demo.
 
 ---
 
-## Evaluation
+## 📈 Evaluation
 The model was evaluated using:
 - Accuracy  
 - Precision  
@@ -69,7 +69,7 @@ Results show **high accuracy and consistent performance**, indicating good gener
 
 ---
 
-## Experiment Tracking
+## 🧾 Experiment Tracking
 **MLflow** was used to log:
 - Model hyperparameters  
 - Cross-validation results  
@@ -80,12 +80,8 @@ This enables reproducibility and structured experimentation.
 
 ---
 
-## Web Application
-A lightweight **Gradio web app** allows users to input game details (platform, genre, year, sales, etc.) and receive:
-- **Hit / Not Hit** prediction  
-- **Confidence score**
+## 🗂️ Project Structure
 
-## Project Structure
 ````
 Video-Games-Hit-Prediction/
 ├── train.py          # Model training & MLflow tracking
@@ -95,18 +91,18 @@ Video-Games-Hit-Prediction/
 ├── requirements.txt
 └── README.md
 ````
-## Run Locally
+## ▶️ Run Locally
 ````
 pip install -r requirements.txt
 python train.py
 python app.py
 ````
 
-## Deployment
+## 🚀 Deployment
 
 The Gradio application is deployed on Hugging Face Spaces and is publicly accessible.
 
-## Key Takeaways
+## ⭐ Key Takeaways
 - Designed and implemented an end-to-end machine learning pipeline  
 - Applied industry-standard practices for data preprocessing, validation, and evaluation  
 - Tracked experiments and model performance using MLflow  
