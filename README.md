@@ -8,7 +8,7 @@ A game is classified as a **Hit** if its global sales exceed **1 million units**
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo
 
 [![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/shawon17/Video-Games-Hit-Prediction)
 
