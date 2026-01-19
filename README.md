@@ -19,8 +19,12 @@ Click **“Restart this Space”** to start the demo.
 ---
 
 ## 🖥️ Web Application Preview
-<img width="2109" height="1262" alt="Screenshot 2026-01-20 031455" src="https://github.com/user-attachments/assets/50099d1b-4814-4e7f-95db-e0e771de007b" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50099d1b-4814-4e7f-95db-e0e771de007b"
+       alt="Video Game Hit Prediction App"
+       width="900" />
+</p>
 
 ---
 
