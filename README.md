@@ -6,6 +6,10 @@ A game is classified as a **Hit** if its global sales exceed **1 million units**
 
 *The project demonstrates the full ML lifecycle — from data preprocessing and model selection to experiment tracking and deployment.*
 
+---
+
+## 🚀 Live Demo
+
 [![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/shawon17/Video-Games-Hit-Prediction)
 
 ---
